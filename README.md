@@ -15,5 +15,5 @@ Mental Health assistant that provides personalized mental health resources , inc
 
 
 #how to run the project
-First , clone the repository and then run **docker build --network=host -t mental_health_assistant .**
-Then run **docker run -p 8501:8501 mental_health_support**
+- First , clone the repository and then run **docker build --network=host -t mental_health_assistant .**
+- Then run **docker run -p 8501:8501 mental_health_support**
